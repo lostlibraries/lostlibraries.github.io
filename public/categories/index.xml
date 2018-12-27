@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on what was I talking about</title>
+    <link>lostlibraries.github.io/categories/</link>
+    <description>Recent content in Categories on what was I talking about</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="lostlibraries.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sketches</title>
+      <link>lostlibraries.github.io/categories/sketches/</link>
+      <pubDate>Tue, 18 Dec 2018 14:33:42 -0400</pubDate>
+      
+      <guid>lostlibraries.github.io/categories/sketches/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
